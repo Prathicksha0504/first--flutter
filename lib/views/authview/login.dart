@@ -119,6 +119,7 @@ class LoginView extends StatelessWidget {
                             ),
                           ),
                           disabledBorder: OutlineInputBorder(
+                            
                             borderRadius: BorderRadius.circular(20),
                             borderSide: BorderSide(
                               color: Colors.white,
